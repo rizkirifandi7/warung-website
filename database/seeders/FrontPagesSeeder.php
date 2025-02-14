@@ -133,7 +133,7 @@ class FrontPagesSeeder extends Seeder
             'type' => 'logo',
             'content' => [
                 'company' => [
-                    'logo' => 'company-images/pBlQcPuuP2wb6Muv4RTneIfK5Qg03aXtGpcqpkmu.png',
+                    'logo' => 'company-images/logo.png',
                     'name' => 'Warung Nasi & Mie',
                 ]
             ],
